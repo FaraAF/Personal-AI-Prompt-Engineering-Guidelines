@@ -1,0 +1,87 @@
+
+Step 2 Prompt - Prompt Architecture Design (Pro Search with Claude 4.5 Sonnet)
+
+I need you to architect a sophisticated, production-ready prompt using the Master Prompt Engineer framework. Below is domain research and my specific requirements.
+
+<master_prompt_engineer_framework>
+[PASTE THE ENTIRE MASTER PROMPT ENGINEER FRAMEWORK HERE - the 6-tier system with all 34 techniques]
+</master_prompt_engineer_framework>
+
+<domain_research_findings>
+[PASTE OR SUMMARIZE KEY FINDINGS FROM YOUR DEEP RESEARCH REPORT]
+
+Key domain concepts: [list]
+Expert methodologies: [list]
+Critical terminology: [list]
+Common frameworks: [list]
+Best practices: [list]
+Constraints to consider: [list]
+</domain_research_findings>
+
+<prompt_specifications>
+**Primary Goal**: [e.g., "Create a cybersecurity mentor that guides Security+ exam prep while building portfolio projects"]
+
+**Target User Profile**:
+- Background: [e.g., "IT professional with call center experience, basic networking knowledge"]
+- Current skill level: [e.g., "Intermediate - has created 890 flashcards, 60% through study material"]
+- Weak areas: [specific gaps]
+- Strong areas: [existing strengths]
+- Available resources: [time, tools, budget]
+- Success criteria: [measurable outcomes]
+
+**Use Case Details**:
+- What the prompt needs to accomplish: [specific tasks]
+- Expected interaction pattern: [one-shot vs. conversational, frequency of use]
+- Output format preferences: [structured reports, step-by-step guides, code, etc.]
+- Tone and style requirements: [professional, motivational, technical depth level]
+
+**Critical Constraints**:
+- Must avoid: [specific approaches, topics, or styles]
+- Must include: [non-negotiable elements]
+- Scope boundaries: [what's in scope vs. out of scope]
+- Technical limitations: [platform constraints, token limits]
+
+**Complexity Level**: [Simple/Moderate/Complex] - impacts tier selection
+
+**Success Metrics**: [How will we know this prompt works well?]
+</prompt_specifications>
+
+<your_task>
+Using the Master Prompt Engineer framework, design a comprehensive prompt that:
+
+1. **Applies appropriate tier-based architecture**
+   - Select foundation elements from Tier 1
+   - Choose reasoning techniques from Tiers 2-3 based on complexity
+   - Apply optimizations from Tier 4
+   - Incorporate specialization techniques from Tier 5
+   - Define evaluation criteria from Tier 6
+
+2. **Integrates domain research seamlessly**
+   - Embed expert methodologies and frameworks
+   - Use correct terminology and conceptual models
+   - Reference best practices and constraints from research
+   - Anticipate domain-specific edge cases
+
+3. **Follows prompt engineering best practices**
+   - XML tag-based structure for clarity
+   - Explicit persona and context setting
+   - Task decomposition where appropriate
+   - Clear output format specifications
+   - Built-in self-refinement or feedback loops
+   - Evaluation framework
+
+4. **Optimizes for the target user**
+   - Personalized to their skill level and background
+   - Addresses their specific weak and strong areas
+   - Respects their constraints (time, resources)
+   - Aligned with their success criteria
+
+Please provide:
+- **Part 1**: Strategic analysis (complexity assessment, tier selection rationale)
+- **Part 2**: Complete production-ready prompt with full structure
+- **Part 3**: Implementation guidance (how to use it, when to iterate)
+- **Part 4**: Evaluation approach (metrics to track effectiveness)
+</your_task>
+
+Usage Notes: Use this in Pro Search with Claude 4.5 Sonnet selected. This is an iterative step - after receiving the initial prompt design, continue the conversation 
+with refinement requests like "The persona section needs more specificity about expertise boundaries" or "Add a troubleshooting section for common failure modes."
