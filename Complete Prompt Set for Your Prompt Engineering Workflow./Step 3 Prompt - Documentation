@@ -1,0 +1,83 @@
+Step 3 Prompt - Documentation (Labs Mode)
+
+Create a comprehensive, professional documentation package for the following AI prompt that I can use as a reference guide and share with others.
+
+<prompt_to_document>
+[PASTE THE FINAL REFINED PROMPT FROM STEP 2]
+</prompt_to_document>
+
+<documentation_requirements>
+Generate a structured document containing:
+
+**Section 1: Prompt Overview**
+- Purpose and primary use case (2-3 sentences)
+- Target user profile and prerequisites
+- Expected outcomes and success metrics
+- Recommended usage frequency
+
+**Section 2: Complete Prompt**
+- Full prompt text formatted for easy copy-paste
+- Clearly delineated sections with labels
+- Highlighted areas where users customize (marked with [CUSTOMIZE])
+
+**Section 3: Implementation Guide**
+**3.1 Setup Instructions**
+- Perplexity mode to use (Pro Search/Labs/Deep Research)
+- Model selection (Claude 4.5 Sonnet recommended)
+- Any prerequisite information gathering needed
+
+**3.2 Step-by-Step Usage**
+1. [First action with specific details]
+2. [Second action with specific details]
+3. [Continuation steps...]
+
+**3.3 Customization Points**
+- List of all [CUSTOMIZE] sections with guidance on what to enter
+- Examples for common scenarios
+- Optional elements that can be removed for simplicity
+
+**Section 4: Best Practices**
+- Do's: [List of recommended approaches]
+- Don'ts: [List of things to avoid]
+- Optimization tips for better results
+- When to iterate vs. when to start fresh
+
+**Section 5: Troubleshooting**
+| Problem | Possible Cause | Solution |
+|---------|---------------|----------|
+| [Common issue 1] | [Why it happens] | [How to fix] |
+| [Common issue 2] | [Why it happens] | [How to fix] |
+| [Common issue 3] | [Why it happens] | [How to fix] |
+
+**Section 6: Examples & Use Cases**
+- Example 1: [Scenario with sample input and expected output type]
+- Example 2: [Different scenario]
+- Example 3: [Edge case scenario]
+
+**Section 7: Advanced Techniques**
+- How to extend the prompt for complex scenarios
+- Integration with other workflows
+- Scaling considerations
+- Version control recommendations
+
+**Section 8: Evaluation & Iteration**
+- Metrics to track prompt effectiveness
+- When to refine vs. rebuild
+- Feedback collection methods
+- Version history tracking
+</documentation_requirements>
+
+<formatting_preferences>
+- Use clear headings and subheadings (H2, H3 structure)
+- Include a table of contents with page/section links
+- Use tables for comparison information
+- Use bullet points for lists
+- Include code blocks or formatted sections for the actual prompt
+- Professional but accessible tone
+- Suitable for both personal reference and sharing with colleagues
+</formatting_preferences>
+
+Please generate this documentation in a format that can be easily exported to PDF or shared as a reference guide.
+
+
+Usage Notes: Use this in Labs mode. The output will be formatted as a professional document you can save, export, or add to your prompt library.
