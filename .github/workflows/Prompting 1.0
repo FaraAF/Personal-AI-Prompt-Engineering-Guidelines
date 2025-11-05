@@ -1,0 +1,90 @@
+# First iteration of prompting guidelines that I developed through the use of Claude and utilizing NirDiamant/Prompt_Engineering Repo as source material#
+
+Practical Implementation Guide
+Scenario 1: Designing a New Specialized Prompt
+Step 1 - Domain Research (Deep Research, 5 minutes)
+
+text
+Query: "Research [domain topic] comprehensively, including current best practices, 
+key terminology, common frameworks, and expert methodologies for 2025"
+Export the report for reference.
+
+Step 2 - Prompt Architecture Design (Pro Search with Claude 4.5 Sonnet, 15-30 minutes)
+
+text
+Paste Master Prompt Engineer framework + research findings
+Request: "Design a comprehensive prompt for [use case] using the tier-based 
+framework, incorporating the domain research provided"
+Iterate conversationally to refine.
+
+Step 3 - Documentation (Labs, 5 minutes - Optional)
+
+text
+Request: "Create a structured document with the final prompt, implementation 
+guide, and usage instructions formatted for easy reference"
+Scenario 2: Analyzing Why an Existing Prompt Fails
+Use Pro Search exclusively:
+
+text
+1. Paste Master Prompt Engineer framework
+2. Provide the failing prompt
+3. Request: "Analyze this prompt's weaknesses using the tier framework, 
+identify failure modes, and provide 3 improved versions"
+4. Iterate based on results
+No need for Deep Research or Labs here.
+
+Scenario 3: Building a Prompt Engineering Knowledge Base
+Use Labs to organize:
+
+text
+Request: "Create a comprehensive spreadsheet organizing all prompt engineering 
+techniques from the tier framework with columns for: Technique Name, Tier, 
+Use Cases, Example Implementation, Effectiveness Rating, When to Avoid"
+Quick Decision Tree
+Are you designing/refining/analyzing a prompt?
+→ Use Pro Search (Claude 4.5 Sonnet)
+
+Do you need comprehensive research about a domain before building the prompt?
+→ Use Deep Research first, then switch to Pro Search
+
+Do you need to create a spreadsheet, report, or dashboard organizing your prompt work?
+→ Use Labs
+
+Are you having a back-and-forth conversation iterating on prompt design?
+→ Use Pro Search (best conversational experience)
+
+Bottom Line for Your Master Prompt Engineer Use
+Default Mode: Pro Search with Claude 4.5 Sonnet (90% of time)
+
+Best for iterative prompt design
+
+Gives you model control
+
+Conversational refinement
+
+Search capabilities when needed
+
+Unlimited access with your Pro plan
+
+Strategic Mode: Deep Research (5-10% of time)
+
+Domain investigation before specialized prompt creation
+
+Comprehensive technique research
+
+Competitive analysis of prompt engineering approaches
+
+Always export reports for your reference library
+
+Organizational Mode: Labs (5% of time)
+
+Creating prompt template libraries
+
+Building evaluation frameworks
+
+Documenting your prompt engineering system
+
+Organizing techniques into structured resources
+
+Start every prompt engineering session in Pro Search with Claude 4.5 Sonnet—it's your primary workspace. Switch to Deep Research only when you need 
+an autonomous, comprehensive domain investigation. Use Labs sparingly for creating structured deliverables.
